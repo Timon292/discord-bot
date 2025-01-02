@@ -1,3 +1,0 @@
-launch options
-
-C:\Users\user_name\AppData\Local\Programs\Python\Python39\python.exe "C:\Users\user_name\file_name\Desktop\SHOGUN BOT\ShogunBot.py"
